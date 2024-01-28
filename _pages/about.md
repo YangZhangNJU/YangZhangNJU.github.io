@@ -18,6 +18,9 @@ redirect_from:
 
 [<font face = "Times New Roman" color=black size=5>climate dynamics</font>](https://en.wikipedia.org/wiki/Climate_Dynamics), [<font face = "Times New Roman" color=black size=5>The general circulation of the atmosphere</font>](https://en.wikipedia.org/wiki/Atmospheric_circulation)<font face = "Times New Roman" color=black size=5>, specifically:</font>
 
-
++ Mean flow-baroclinic eddy interaction.
++ Influence pf boundary layer on baroclinic eddy activity.
++ Low latitudes and mid-latitudes interactions.
++ Transient eddyies in East Asia.
 
 
