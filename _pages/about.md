@@ -23,4 +23,7 @@ redirect_from:
 + Low latitudes and mid-latitudes interactions.
 + Transient eddyies in East Asia.
 
+## *Recent News:*
+
++ **Jan 18, 2024**: Congratulations to Dr. Yuling Yao on a successful PHD defense!
 
