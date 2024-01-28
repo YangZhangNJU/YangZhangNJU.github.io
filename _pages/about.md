@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Welcome to my Homepage!"
 excerpt: "About me"
