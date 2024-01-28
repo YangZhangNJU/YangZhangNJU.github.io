@@ -12,8 +12,8 @@ redirect_from:
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Earth_Global_Circulation_-_en.svg/1920px-Earth_Global_Circulation_-_en.svg.png" width="500">
 </div>
 
-<font face = "Times New Roman" color=black size=10>Research Interests:</font>
+<font face = "Times New Roman" color=black size=26>Research Interests:</font>
 
-[climate dynamics](https://en.wikipedia.org/wiki/Climate_Dynamics), [The general circulation of the atmosphere](https://en.wikipedia.org/wiki/Atmospheric_circulation), specifically:
+[<font face = "Times New Roman" color=black size=16>climate dynamics</font>](https://en.wikipedia.org/wiki/Climate_Dynamics), [<font face = "Times New Roman" color=black size=16>The general circulation of the atmosphere</font>](https://en.wikipedia.org/wiki/Atmospheric_circulation), specifically:
 
 
