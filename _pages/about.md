@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to my Homepage!
-
 ![groupphoto1](/images/groupphoto1.JPG)
 
 <!--<div align="left">
