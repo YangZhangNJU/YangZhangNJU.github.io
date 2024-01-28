@@ -8,5 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-### Group photo 2023/06
-![groupphoto](/images/groupphoto1.JPG)
+<div align="left">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Earth_Global_Circulation_-_en.svg/1920px-Earth_Global_Circulation_-_en.svg.png" width="500">
+</div>
+
+<font face = "Times New Roman" color=black size=10>Research Interests:</font>
+
+[climate dynamics](https://en.wikipedia.org/wiki/Climate_Dynamics), [The general circulation of the atmosphere](https://en.wikipedia.org/wiki/Atmospheric_circulation), specifically:
+
+
