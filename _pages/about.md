@@ -14,9 +14,9 @@ redirect_from:
 
 <!-- #<font face = "Times New Roman" color=black size=26>Research Interests:</font>-->
 
-<font face = "Times New Roman" color=black size=16>Research Interests:</font>
+<font face = "Times New Roman" color=black size=7>Research Interests:</font>
 
-[<font face = "Times New Roman" color=black size=12>climate dynamics</font>](https://en.wikipedia.org/wiki/Climate_Dynamics), [<font face = "Times New Roman" color=black size=12>The general circulation of the atmosphere</font>](https://en.wikipedia.org/wiki/Atmospheric_circulation)<font face = "Times New Roman" color=black size=12>, specifically:</font>
+[<font face = "Times New Roman" color=black size=5>climate dynamics</font>](https://en.wikipedia.org/wiki/Climate_Dynamics), [<font face = "Times New Roman" color=black size=5>The general circulation of the atmosphere</font>](https://en.wikipedia.org/wiki/Atmospheric_circulation)<font face = "Times New Roman" color=black size=5>, specifically:</font>
 
 
 
