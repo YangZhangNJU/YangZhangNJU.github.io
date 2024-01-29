@@ -19,36 +19,36 @@ author_profile: true
 
    Fan, H., Wang, L.*, **Zhang, Y.**, Tang, Y., Duan, W., & Wang, L. (2020). Predictable Patterns of Wintertime Surface Air Temperature in Northern Hemisphere and Their Predictability Sources in the SEAS5, <u>Journal of Climate</u>, 33(24), 10743-10754.
 
-   Liu, S., Wu, Q., Wang, L., Schroeder, S. R., **Zhang, Y.**, Yao, Y., & Hu, H. (2020). Modeled Climate Responses to Realistic Extremes of Northern Hemisphere Spring and Summer Snow Anomalies. ***Journal of Climate***, 33(22), 9905-9927.
+   Liu, S., Wu, Q., Wang, L., Schroeder, S. R., **Zhang, Y.**, Yao, Y., & Hu, H. (2020). Modeled Climate Responses to Realistic Extremes of Northern Hemisphere Spring and Summer Snow Anomalies. <u>Journal of Climate</u>, 33(22), 9905-9927.
 
-   Liu, Y., Wu, Y., Lin, Z., **Zhang, Y.**, Zhu, J., & Yi, C.* (2020). Simulated Impact of the Tibetan Glacier Expansion on the Eurasian Climate and Glacial Surface Mass Balance during the Last Glacial Maximum, ***Journal of Climate***, 33(15), 6491-6509.
+   Liu, Y., Wu, Y., Lin, Z., **Zhang, Y.**, Zhu, J., & Yi, C.* (2020). Simulated Impact of the Tibetan Glacier Expansion on the Eurasian Climate and Glacial Surface Mass Balance during the Last Glacial Maximum, <u>Journal of Climate</u>, 33(15), 6491-6509.
 
-   Liu, S., Wu, Q.*, Schroeder, S. R., Yao, **Y., Zhang**, Y., Wu, T., Wang, L., & Hu, H. (2020). Near-Global Atmospheric Responses to Observed Springtime Tibetan Plateau Snow Anomalies, ***Journal of Climate***, 33(5), 1691-1706.
+   Liu, S., Wu, Q.*, Schroeder, S. R., Yao, **Y., Zhang**, Y., Wu, T., Wang, L., & Hu, H. (2020). Near-Global Atmospheric Responses to Observed Springtime Tibetan Plateau Snow Anomalies, <u>Journal of Climate</u>, 33(5), 1691-1706.
    
-   Nie, Yu, Zhang, Yang*, Yang, Xiu-Qun; Ren, Hong-Li, 2019; Winter and Summer Rossby Wave Sources in the CMIP5 Models, ***Earth and Space Science***, 6(10), 1831-1846.
+   Nie, Yu, Zhang, Yang*, Yang, Xiu-Qun; Ren, Hong-Li, 2019; Winter and Summer Rossby Wave Sources in the CMIP5 Models, <u>Earth and Space Science</u>, 6(10), 1831-1846.
    
-   Nie, Yu, Ren, Hong-Li*; **Zhang, Yang**, 2019: The Role of Extratropical Air-Sea Interaction in the Autumn Subseasonal Variability of the North Atlantic Oscillation, ***Journal of Climate***, 32(22): 7697-7712.
+   Nie, Yu, Ren, Hong-Li*; **Zhang, Yang**, 2019: The Role of Extratropical Air-Sea Interaction in the Autumn Subseasonal Variability of the North Atlantic Oscillation, <u>Journal of Climate</u>, 32(22): 7697-7712.
    
-   Wang, Lin*; Liu, Yuyun; **Zhang, Yang**; Chen, Wen; Chen, Shangfeng; Time-varying structure of the wintertime Eurasian pattern: role of the North Atlantic sea surface temperature and atmospheric mean flow, ***Climate Dynamics***, 2019, 52 (3-4): 2467-2479.
+   Wang, Lin*; Liu, Yuyun; **Zhang, Yang**; Chen, Wen; Chen, Shangfeng; Time-varying structure of the wintertime Eurasian pattern: role of the North Atlantic sea surface temperature and atmospheric mean flow, <u>Climate Dynamics</u>, 2019, 52 (3-4): 2467-2479.
    
-   **Zhang, Yang***, Tao Zou, and Yongkang Xue, 2019:  An Arctic‐Tibetan connection on subseasonal to seasonal time scale. ***Geophys. Res. Let.***, 46, 2790– 2799, doi:10.1029/2018GL081476. 
+   **Zhang, Yang***, Tao Zou, and Yongkang Xue, 2019:  An Arctic‐Tibetan connection on subseasonal to seasonal time scale. <u>Geophys. Res. Let.</u>, 46, 2790– 2799, doi:10.1029/2018GL081476. 
    
-   Gu, Sen（PHD student）, **Yang Zhang***, Qigang Wu, and Xiu-Qun Yang, 2018:   The linkage between Arctic sea ice and midlatitude weather: in the perspective of energy. ***Journal of Geophysical Research: Atmospheres***, 123:20, 11,536-11,550, doi:10.1029/2018JD028743.    
+   Gu, Sen（PHD student）, **Yang Zhang***, Qigang Wu, and Xiu-Qun Yang, 2018:   The linkage between Arctic sea ice and midlatitude weather: in the perspective of energy. <u>Journal of Geophysical Research: Atmospheres</u>, 123:20, 11,536-11,550, doi:10.1029/2018JD028743.    
    
-   Xiao, Bei（PHD student）, **Yang Zhang***, Gang Chen, and Xiu-Qun Yang, 2016:  On the role of extratropical air-sea interaction in the persistence of the Southern Annular Mode. ***Geophy. Res. Let.***, 43, 8806-8814, doi:10.1002/2016GL070255.（<mark>GRL editor's highlight，AGU Research Spotlight</mark>） 
+   Xiao, Bei（PHD student）, **Yang Zhang***, Gang Chen, and Xiu-Qun Yang, 2016:  On the role of extratropical air-sea interaction in the persistence of the Southern Annular Mode. <u>Geophy. Res. Let.</u>, 43, 8806-8814, doi:10.1002/2016GL070255.（<mark>GRL editor's highlight，AGU Research Spotlight</mark>） 
 
-   Nie, Yu（PHD student）, **Yang Zhang***, Gang Chen, and Xiu-Qun Yang, 2016:  Delineating barotropic and baroclinic mechanisms in the midlatitude eddy-driven jet response to the lower tropospheric thermal forcing. ***J. Atmos. Sci.***, 73, 429-448.  
+   Nie, Yu（PHD student）, **Yang Zhang***, Gang Chen, and Xiu-Qun Yang, 2016:  Delineating barotropic and baroclinic mechanisms in the midlatitude eddy-driven jet response to the lower tropospheric thermal forcing. <u>J. Atmos. Sci.</u>, 73, 429-448.  
    
-   Song, L., L. Wang*, W. Chen, and **Y. Zhang**, 2016: Intraseasonal variation of the strength of the East Asian trough and its climatic impacts in boreal winter. ***J. Climate***. doi:10.1175/JCLI-D-14-00834.1.
+   Song, L., L. Wang*, W. Chen, and **Y. Zhang**, 2016: Intraseasonal variation of the strength of the East Asian trough and its climatic impacts in boreal winter. <u>J. Climate</u>. doi:10.1175/JCLI-D-14-00834.1.
    
-   Nie, Yu（PHD student）, **Yang Zhang***, Gang Chen, Xiu-Qun Yang and D. A. Burrows, 2014: Quantifying barotropic and baroclinic eddy feedbacks in the persistence of the Southern Annular Mode. ***Geophy. Res. Let.***, 41, 8636-8644, doi:10.1002/2014GL062210X. 
+   Nie, Yu（PHD student）, **Yang Zhang***, Gang Chen, Xiu-Qun Yang and D. A. Burrows, 2014: Quantifying barotropic and baroclinic eddy feedbacks in the persistence of the Southern Annular Mode. <u>Geophy. Res. Let.</u>, 41, 8636-8644, doi:10.1002/2014GL062210X. 
    
-   Nie, Yu（PHD student）, **Yang Zhang***, Xiu-Qun Yang, and Gang Chen, 2013:  Baroclinic anomalies associated with the Southern Hemisphere Annular Mode: roles of synoptic and low-frequency eddies. ***Geophy. Res. Let.***, 40, 2361–2366, doi:10.1002/grl.50396. 
+   Nie, Yu（PHD student）, **Yang Zhang***, Xiu-Qun Yang, and Gang Chen, 2013:  Baroclinic anomalies associated with the Southern Hemisphere Annular Mode: roles of synoptic and low-frequency eddies. <u>Geophy. Res. Let.</u>, 40, 2361–2366, doi:10.1002/grl.50396. 
    
-   **Zhang, Yang***, Xiu-Qun Yang, Yu Nie, and Gang Chen, 2012:  Annular-mode-like variation in a multi-layer quasigeostrophic model. ***Journal of the Atmospheric Sciences***, 69, 2940-2958. 
+   **Zhang, Yang***, Xiu-Qun Yang, Yu Nie, and Gang Chen, 2012:  Annular-mode-like variation in a multi-layer quasigeostrophic model. <u>Journal of the Atmospheric Sciences</u>, 69, 2940-2958. 
    
-   **Zhang, Yang*** and Peter Stone, 2011:  Baroclinic Adjustment in an Atmosphere–Ocean Thermally Coupled Model: The Role of the Boundary Layer Processes. ***Journal of the Atmospheric Sciences***, 68, 2710-2730.  
+   **Zhang, Yang*** and Peter Stone, 2011:  Baroclinic Adjustment in an Atmosphere–Ocean Thermally Coupled Model: The Role of the Boundary Layer Processes. <u>Journal of the Atmospheric Sciences</u>, 68, 2710-2730.  
    
-   **Zhang, Yang*** and Peter Stone, 2010:  Baroclinic eddy equilibration under specified seasonal forcing. ***Journal of the Atmospheric Sciences***, 67, 2632–2648. 
+   **Zhang, Yang*** and Peter Stone, 2010:  Baroclinic eddy equilibration under specified seasonal forcing. <u>Journal of the Atmospheric Sciences</u>, 67, 2632–2648. 
    
-   **Zhang, Yang***, Peter Stone, and Amy Solomon, 2009:  The role of boundary layer processes in limiting PV homogenization. ***Journal of the Atmospheric Sciences***, 66, 1612–1632.  
+   **Zhang, Yang***, Peter Stone, and Amy Solomon, 2009:  The role of boundary layer processes in limiting PV homogenization. <u>Journal of the Atmospheric Sciences</u>, 66, 1612–1632.  
