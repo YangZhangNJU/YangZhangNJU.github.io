@@ -26,8 +26,8 @@ author_profile: true
     <td>Zhuo Li<br>PhD candidate 2020-<br>Email: dz20280006@smail.nju.edu.cn<br><br>Zhuo is interested in understanding the interannual variability of East Asian Summer Monsoon and the zonal oriented teleconnection patterns over Eurasia.</td>
   </tr>
   <tr>
-    <td><img src="/images/500x300.png" alt="drawing" width="300"/></td>
-    <td>Yanting Liu<br>PhD candidate 2022-<br>Email:  @smail.nju.edu.cn<br><br>Yanting is interested in understanding the .</td>
+    <td><img src="/images/groupmemberphoto/ytliu.jpg" alt="drawing" width="300"/></td>
+    <td>Yanting Liu<br>PhD candidate 2020-<br>Email: 602022280011@smail.nju.edu.cn<br><br>Yanting is interested in the characteristics of Arctic cyclones and related atmosphere-ice-ocean interactions, as well as the linkage between Arctic and midlatitude weather and climate.</td>
   </tr>
 </table>
 
