@@ -43,7 +43,7 @@ author_profile: true
   </tr>
   <tr>
     <td><img src="/images/groupmemberphoto/dchan.JPG" alt="drawing" width="200"/></td>
-    <td>Duo Chan<br>PhD (2012.09-2015.06)<br><br><a href="https://duochanatharvard.github.io/">Duo Chan</a> now is a lecturer in the school of Ocean and Earth Sciences at University of Southampton, UK. <br></td>
+    <td>Duo Chan<br>MS (2012.09-2015.06)<br><br><a href="https://duochanatharvard.github.io/">Duo Chan</a> now is a lecturer in the school of Ocean and Earth Sciences at University of Southampton, UK. <br></td>
   </tr>
 </table>
 </font>
