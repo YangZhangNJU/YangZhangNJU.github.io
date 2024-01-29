@@ -17,9 +17,9 @@ author_profile: true
 </table>
 <table>
   <tr>
-    <td><img src="/images/500x300.png" alt="drawing" width="300"/></td>
+    <td><img src="/images/groupmemberphoto/zli.jpg" alt="drawing" width="100"/></td>
     <td>Zhuo Li<br>PhD candidate 2020-<br>Email: dz20280006@smail.nju.edu.cn<br><br>Zhuo is interested in understanding the interannual variability of East Asian Summer Monsoon and the zonal oriented teleconnection patterns over Eurasia.</td>
-    <td><img src="/images/500x300.png" alt="drawing" width="300"/></td>
+    <td><img src="/images/500x300.png" alt="drawing" width="100"/></td>
     <td>somebody.</td>
   </tr>
 </table>
