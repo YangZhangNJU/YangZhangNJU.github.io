@@ -7,17 +7,17 @@ author_profile: true
 
 ## Main papers: (* corresponding author)
 
-   Dai, Xianglin(PHD student), **Yang Zhang*** and Xiu-Qun Yang, 2021: The budget of local available potential energy of low-frequency eddies in Northern Hemispheric winter, ***Journal of Climate***, 34, 1241-1258.
+   Dai, Xianglin(PHD student), **Yang Zhang*** and Xiu-Qun Yang, 2021: The budget of local available potential energy of low-frequency eddies in Northern Hemispheric winter, <u>Journal of Climate</u>, 34, 1241-1258.
 
-   Wang, Mengling(PHD student), **Yang Zhang** and Jian Lu*, 2021: The evolution dynamical processes of Ural blocking through the lens of local finite‐amplitude wave activity budget analysis, ***Geophy. Res. Let.*** 48, DOI: 10.1029/2020GL091727.
+   Wang, Mengling(PHD student), **Yang Zhang** and Jian Lu*, 2021: The evolution dynamical processes of Ural blocking through the lens of local finite‐amplitude wave activity budget analysis, <u>Geophy. Res. Let.</u> 48, DOI: 10.1029/2020GL091727.
    
-   Chan, Duo, **Yang Zhang***, Qigang Wu and Xianglin Dai, 2020: Quantifying the dynamics of the interannual variabilities of the wintertime East Asian Jet Core. ***Climate Dynamics***, 54, 2447–2463, doi:10.1007/s00382-020-05127-3.
+   Chan, Duo, **Yang Zhang***, Qigang Wu and Xianglin Dai, 2020: Quantifying the dynamics of the interannual variabilities of the wintertime East Asian Jet Core. <u>Climate Dynamics</u>, 54, 2447–2463, doi:10.1007/s00382-020-05127-3.
    
-   Huang, Jing(PHD student), **Yang Zhang***, Xiu-Qun Yang, Xuejuan Ren, and Haibo Hu, 2020: Impacts of North Pacific Subtropical and Subarctic Oceanic Frontal Zones on the Wintertime Atmospheric Large-Scale Circulations, ***Journal of Climate***, 33, 1897-1914.
+   Huang, Jing(PHD student), **Yang Zhang***, Xiu-Qun Yang, Xuejuan Ren, and Haibo Hu, 2020: Impacts of North Pacific Subtropical and Subarctic Oceanic Frontal Zones on the Wintertime Atmospheric Large-Scale Circulations, <u>Journal of Climate</u>, 33, 1897-1914.
    
-   Weiyang Feng, Minghuai Wang*, **Yang Zhang***, Xianglin Dai, Xiaohong Liu & Yangyang Xu (2020). Intraseasonal variation and future projection of atmospheric diffusion conditions conducive to extreme haze formation over eastern China, ***Atmospheric and Oceanic Science Letters***, 13:4, 346-355,DOI: 10.1080/16742834.2020.1745054.
+   Weiyang Feng, Minghuai Wang*, **Yang Zhang***, Xianglin Dai, Xiaohong Liu & Yangyang Xu (2020). Intraseasonal variation and future projection of atmospheric diffusion conditions conducive to extreme haze formation over eastern China, <u>Atmospheric and Oceanic Science Letters</u>, 13:4, 346-355,DOI: 10.1080/16742834.2020.1745054.
 
-   Fan, H., Wang, L.*, **Zhang, Y.**, Tang, Y., Duan, W., & Wang, L. (2020). Predictable Patterns of Wintertime Surface Air Temperature in Northern Hemisphere and Their Predictability Sources in the SEAS5, ***Journal of Climate***, 33(24), 10743-10754.
+   Fan, H., Wang, L.*, **Zhang, Y.**, Tang, Y., Duan, W., & Wang, L. (2020). Predictable Patterns of Wintertime Surface Air Temperature in Northern Hemisphere and Their Predictability Sources in the SEAS5, <u>Journal of Climate</u>, 33(24), 10743-10754.
 
    Liu, S., Wu, Q., Wang, L., Schroeder, S. R., **Zhang, Y.**, Yao, Y., & Hu, H. (2020). Modeled Climate Responses to Realistic Extremes of Northern Hemisphere Spring and Summer Snow Anomalies. ***Journal of Climate***, 33(22), 9905-9927.
 
