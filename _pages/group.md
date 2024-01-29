@@ -39,11 +39,11 @@ author_profile: true
 <table>
   <tr>
     <td><img src="/images/groupmemberphoto/ynie.png" alt="drawing" width="200"/></td>
-    <td>Yu Nie<br><br>PhD (2009.09-2014.07)<br><br><a href="http://ncclcs.ncc-cma.net/Website/?NewsID=3605">Yu Nie</a> now is a Researcher in Laboratory for Climate Studies, National Climate Centre, China. <br></td>
+    <td><a href="http://ncclcs.ncc-cma.net/Website/?NewsID=3605">Yu Nie</a><br><br>PhD (2009.09-2014.07)<br><br>Yu Nie now is a Researcher in Laboratory for Climate Studies, National Climate Centre, China. <br></td>
   </tr>
   <tr>
     <td><img src="/images/groupmemberphoto/dchan.JPG" alt="drawing" width="200"/></td>
-    <td>Duo Chan<br><br>MS (2012.09-2015.06)<br><br><a href="https://duochanatharvard.github.io/">Duo Chan</a> now is a lecturer in the school of Ocean and Earth Sciences at University of Southampton, UK. <br></td>
+    <td><a href="https://duochanatharvard.github.io/">Duo Chan</a><br><br>MS (2012.09-2015.06)<br><br>Duo Chan now is a lecturer in the school of Ocean and Earth Sciences at University of Southampton, UK. <br></td>
   </tr>
 </table>
 </font>
