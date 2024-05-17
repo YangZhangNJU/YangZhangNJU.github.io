@@ -58,7 +58,7 @@ author_profile: true
     <td>Xianglin Dai<br><br>PhD<br> (2016.09-2020.09)<br></td>
     <td><div align=center><img src="/images/bio-photo.jpg" alt="drawing" width="100"/></div></td>
     <td>Tao Zou<br><br>MS<br> (2016.09-2019.06)<br></td>
-    <td><div align=center><img src="/images/groupmemberphoto/mlwang.png" alt="drawing" width="100"/></div></td>
+    <td><div align=center><img src="/images/groupmemberphoto/mlwang.jpg" alt="drawing" width="100"/></div></td>
     <td>Mengling Wang<br><br>PhD<br> (2017.09-2022.06)<br></td>
   </tr>
   <tr>
