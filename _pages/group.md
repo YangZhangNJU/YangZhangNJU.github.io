@@ -11,7 +11,7 @@ author_profile: true
 <font size="5" face="Courier New" >
 <table>
   <tr>
-    <td><img src="/images/Yang_2014_4.png" alt="drawing" width="200" div align=center /></td>
+    <td><div align=center><img src="/images/Yang_2014_4.png" alt="drawing" width="200" div align=center /></div></td>
     <td colspan="3">Yang Zhang <br><br> Professor, Head of the Department of Meteorology <br>School of Atmospheric Sciences, Nanjing University<br><br>Email: yangzhang@nju.edu.cn<br></td>
   </tr>
 </table>
