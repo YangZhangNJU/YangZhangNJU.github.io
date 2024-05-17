@@ -51,11 +51,11 @@ author_profile: true
     <td><div align=center><img src="/images/groupmemberphoto/sgu.png" alt="drawing" width="100"/></div></td>
     <td>Sen Gu<br><br>PhD<br> (2015.09-2019.12)<br></td>
     <td><div align=center><img src="/images/groupmemberphoto/jhuang.jpg" alt="drawing" width="100"/></div></td>
-    <td>Jing Huang<br><br>PhD<br> (2017.09-2020.06)<br></td>    
+    <td>Jing Huang<br><br>PhD<br> (2016.09-2020.06)<br></td>    
   </tr>
   <tr>
     <td><div align=center><img src="/images/groupmemberphoto/xldai.jpg" alt="drawing" width="100"/></div></td>
-    <td>Xianglin Dai<br><br>PhD<br> (2016.09-2020.09)<br></td>
+    <td>Xianglin Dai<br><br>PhD<br> (2015.09-2020.09)<br></td>
     <td><div align=center><img src="/images/bio-photo.jpg" alt="drawing" width="100"/></div></td>
     <td>Tao Zou<br><br>MS<br> (2016.09-2019.06)<br></td>
     <td><div align=center><img src="/images/groupmemberphoto/mlwang.jpg" alt="drawing" width="100"/></div></td>
