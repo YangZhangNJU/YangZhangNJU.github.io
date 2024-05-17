@@ -46,6 +46,22 @@ author_profile: true
     <td><a href="https://duochanatharvard.github.io/">Duo Chan</a><br><br>MS (2012.09-2015.06)<br><br>Duo Chan now is a lecturer in the school of Ocean and Earth Sciences at University of Southampton, UK. <br></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td><div align=center><img src="/images/groupmemberphoto/bxiao.png" alt="drawing" width="100"/></div></td>
+    <td><a>Bei Xiao</a><br><br>PhD<br> (2013.09-2016.12)<br></td>
+    <td><div align=center><img src="/images/groupmemberphoto/sgu.png" alt="drawing" width="100"/></div></td>
+    <td><a>Sen Gu</a><br><br>PhD<br> (2015.09-2019.12)<br></td>
+    <td><div align=center><img src="/images/groupmemberphoto/jhuang.jpg" alt="drawing" width="100"/></div></td>
+    <td><a>Jing Huang</a><br><br>PhD<br> (2017.09-2020.06)<br></td>    
+  </tr>
+  <tr>
+    <td><div align=center><img src="/images/groupmemberphoto/xldai.jpg" alt="drawing" width="100"/></div></td>
+    <td><a>Xianglin Dai</a><br><br>PhD<br> (2016.09-2020.09)<br></td>
+    <td><div align=center><img src="/images/groupmemberphoto/bio-photo-2.jpg" alt="drawing" width="100"/></div></td>
+    <td><a>Tao Zou</a><br><br>MS<br> (2016.09-2019.06)<br></td>
+  </tr>
+</table>
 </font>
 
 ### Group Photo in 2023/06
