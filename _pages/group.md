@@ -22,9 +22,11 @@ author_profile: true
 <font size="5" face="Courier New" >
 <table>
   <tr>
-    <td><img src="/images/groupmemberphoto/zli.jpg" alt="drawing" width="1000"/></td>
+    <td><img src="/images/groupmemberphoto/zli.jpg" alt="drawing" width="300"/></td>
     <td>Zhuo Li<br><br>PhD candidate 2020-<br>Email: dz20280006@smail.nju.edu.cn<br><br>Zhuo is interested in understanding the interannual variability of East Asian Summer Monsoon and the zonal oriented teleconnection patterns over Eurasia.</td>
-    <td><img src="/images/groupmemberphoto/ytliu.jpg" alt="drawing" width="1000"/></td>
+  </tr>
+  <tr>
+    <td><img src="/images/groupmemberphoto/ytliu.jpg" alt="drawing" width="300"/></td>
     <td>Yanting Liu<br><br>PhD candidate 2020-<br>Email: 602022280011@smail.nju.edu.cn<br><br>Yanting is interested in the characteristics of Arctic cyclones and related atmosphere-ice-ocean interactions, as well as the linkage between Arctic and midlatitude weather and climate.</td>
   </tr>
 </table>
@@ -70,6 +72,10 @@ author_profile: true
   
 </table>
 </font>
+
+### Group Photo in 2024/03
+
+![groupphoto1](/images/groupphoto3.jpg)
 
 ### Group Photo in 2023/06
 
