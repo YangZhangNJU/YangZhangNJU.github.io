@@ -64,7 +64,7 @@ author_profile: true
   <tr>
     <td><div align=center><img src="/images/groupmemberphoto/qyzhang.png" alt="drawing" width="100"/></div></td>
     <td>Qiuyan Zhang<br><br>PhD<br> (2018.09-2022.09)<br></td>
-    <td><div align=center><img src="/images/bio-photo.jpg" alt="drawing" width="100"/></div></td>
+    <td><div align=center><img src="/images/groupmemberphoto/ypan.JPG" alt="drawing" width="100"/></div></td>
     <td>Yan Pan<br><br>MS<br> (2019.09-2022.06)<br></td>
     <td><div align=center><img src="/images/bio-photo.jpg" alt="drawing" width="100"/></div></td>
     <td>Yuling Yao<br><br>PhD<br> (2019.09-2024.03)<br></td>
