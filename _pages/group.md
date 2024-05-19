@@ -34,8 +34,16 @@ author_profile: true
     <td>Yanting Liu<br><br>PhD candidate 2020-<br>Email: 602022280011@smail.nju.edu.cn<br><br>Yanting is interested in the characteristics of Arctic cyclones and related atmosphere-ice-ocean interactions, as well as the linkage between Arctic and midlatitude weather and climate.</td>
   </tr>
   <tr>
+    <td><img src="/images/groupmemberphoto/stli.jpg" alt="drawing" width="300"/></td>
+    <td>Shuting Li<br><br>PhD candidate 2021-<br>Email: dz21280004@smail.nju.edu.cn<br><br>Shuting is interested in the climatic anomaly of the Tibetan Plateau and global response to climate change on the Tibetan Plateau.</td>
+  </tr>
+  <tr>
+    <td><img src="/images/groupmemberphoto/xran.jpg" alt="drawing" width="300"/></td>
+    <td>Xue Ran<br><br>PhD candidate 2021-<br>Email: 602023280016@smail.nju.edu.cn<br><br>Ran's research focuses on the Stratosphere-Troposphere Dynamical Coupling, especially the regional coupling characteristics.</td>
+  </tr>
+  <tr>
     <td><img src="/images/groupmemberphoto/hjliu.jpg" alt="drawing" width="300"/></td>
-    <td>Hongjiang Liu<br><br>PhD candidate 2024-<br>Email: 502022280024@smail.nju.edu.cn<br><br>Hongjiang is interested in the changes in characteristics of atmospheric fluctuations with different time scales at mid-high latitudes in winter and dynamic mechanisms.</td>
+    <td>Hongjiang Liu<br><br>PhD candidate 2022-<br>Email: 502022280024@smail.nju.edu.cn<br><br>Hongjiang is interested in the changes in characteristics of atmospheric fluctuations with different time scales at mid-high latitudes in winter and dynamic mechanisms.</td>
   </tr>
 </table>
 
