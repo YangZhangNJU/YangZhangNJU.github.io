@@ -23,27 +23,35 @@ author_profile: true
 <table>
   <tr>
     <td><img src="/images/groupmemberphoto/zlu.JPG" alt="drawing" width="300"/></td>
-    <td>Zheng Lu<br><br>PhD candidate 2021-<br>Email: dg21280012@smail.nju.edu.cn<br><br>Zheng is interested in the seasonal and cross-seasonal predictability of summertime surface air temperature in Eurasia.</td>
+    <td>Zheng Lu<br><br>PhD candidate 2021<br>Email: dg21280012@smail.nju.edu.cn<br><br>Zheng is interested in the seasonal and cross-seasonal predictability of summertime surface air temperature in Eurasia.</td>
   </tr>
   <tr>
     <td><img src="/images/groupmemberphoto/zli.jpg" alt="drawing" width="300"/></td>
-    <td>Zhuo Li<br><br>PhD candidate 2020-<br>Email: dz20280006@smail.nju.edu.cn<br><br>Zhuo is interested in understanding the interannual variability of East Asian Summer Monsoon and the zonal oriented teleconnection patterns over Eurasia.</td>
+    <td>Zhuo Li<br><br>PhD candidate 2020<br>Email: dz20280006@smail.nju.edu.cn<br><br>Zhuo is interested in understanding the interannual variability of East Asian Summer Monsoon and the zonal oriented teleconnection patterns over Eurasia.</td>
   </tr>
   <tr>
     <td><img src="/images/groupmemberphoto/ytliu.jpg" alt="drawing" width="300"/></td>
-    <td>Yanting Liu<br><br>PhD candidate 2020-<br>Email: 602022280011@smail.nju.edu.cn<br><br>Yanting is interested in the characteristics of Arctic cyclones and related atmosphere-ice-ocean interactions, as well as the linkage between Arctic and midlatitude weather and climate.</td>
+    <td>Yanting Liu<br><br>PhD candidate 2022<br>Email: 602022280011@smail.nju.edu.cn<br><br>Yanting is interested in the characteristics of Arctic cyclones and related atmosphere-ice-ocean interactions, as well as the linkage between Arctic and midlatitude weather and climate.</td>
   </tr>
   <tr>
     <td><img src="/images/groupmemberphoto/stli.jpg" alt="drawing" width="300"/></td>
-    <td>Shuting Li<br><br>PhD candidate 2021-<br>Email: dz21280004@smail.nju.edu.cn<br><br>Shuting is interested in the climatic anomaly of the Tibetan Plateau and global response to climate change on the Tibetan Plateau.</td>
+    <td>Shuting Li<br><br>PhD candidate 2021<br>Email: dz21280004@smail.nju.edu.cn<br><br>Shuting is interested in the climatic anomaly of the Tibetan Plateau and global response to climate change on the Tibetan Plateau.</td>
   </tr>
   <tr>
     <td><img src="/images/groupmemberphoto/xran.jpg" alt="drawing" width="300"/></td>
-    <td>Xue Ran<br><br>PhD candidate 2021-<br>Email: 602023280016@smail.nju.edu.cn<br><br>Ran's research focuses on the Stratosphere-Troposphere Dynamical Coupling, especially the regional coupling characteristics.</td>
+    <td>Xue Ran<br><br>PhD candidate 2023<br>Email: 602023280016@smail.nju.edu.cn<br><br>Ran's research focuses on the Stratosphere-Troposphere Dynamical Coupling, especially the regional coupling characteristics.</td>
   </tr>
   <tr>
     <td><img src="/images/groupmemberphoto/hjliu.jpg" alt="drawing" width="300"/></td>
-    <td>Hongjiang Liu<br><br>PhD candidate 2022-<br>Email: 502022280024@smail.nju.edu.cn<br><br>Hongjiang is interested in the changes in characteristics of atmospheric fluctuations with different time scales at mid-high latitudes in winter and dynamic mechanisms.</td>
+    <td>Hongjiang Liu<br><br>PhD candidate 2024<br>Email: 502022280024@smail.nju.edu.cn<br><br>Hongjiang is interested in the changes in characteristics of atmospheric fluctuations with different time scales at mid-high latitudes in winter and dynamic mechanisms.</td>
+  </tr>
+  <tr>
+    <td><img src="/images/groupmemberphoto/jnwu.jpg" alt="drawing" width="300"/></td>
+    <td>Jiani Wu<br><br>MS candidate 2023<br>Email: 502023280042@smail.nju.edu.cn<br><br>Jiani is interested in the teleconnections between the Arctic and the tropics, and their contributions to the cold waves in East Asia.</td>
+  </tr>
+  <tr>
+    <td><img src="/images/groupmemberphoto/lywang.JPG" alt="drawing" width="300"/></td>
+    <td>Luyao Wang<br><br>MS candidate 2023<br>Email: 502023280036@smail.nju.edu.cn<br><br>Luyao is interested in understanding cold air outbreaks in the Arctic and related air-sea heat fluxes.</td>
   </tr>
 </table>
 
