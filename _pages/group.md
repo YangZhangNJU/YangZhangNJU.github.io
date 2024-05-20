@@ -39,7 +39,7 @@ author_profile: true
   </tr>
   <tr>
     <td><img src="/images/groupmemberphoto/xran.jpg" alt="drawing" width="300"/></td>
-    <td>Xue Ran<br><br>PhD candidate 2023<br>Email: 602023280016@smail.nju.edu.cn<br><br>Xue's research focuses on the Stratosphere-Troposphere Dynamical Coupling, especially the regional coupling characteristics.</td>
+    <td><a href="https://ranx79.github.io/">Xue Ran</a><br><br>PhD candidate 2023<br>Email: 602023280016@smail.nju.edu.cn<br><br>Xue's research focuses on the Stratosphere-Troposphere Dynamical Coupling, especially the regional coupling characteristics.</td>
   </tr>
   <tr>
     <td><img src="/images/groupmemberphoto/hjliu.jpg" alt="drawing" width="300"/></td>
