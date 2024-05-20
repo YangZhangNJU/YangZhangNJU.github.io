@@ -22,6 +22,10 @@ author_profile: true
 <font size="5" face="Courier New" >
 <table>
   <tr>
+    <td><img src="/images/groupmemberphoto/wluo.jpg" alt="drawing" width="300"/></td>
+    <td>Wen Luo<br><br>PhD candidate 2020<br>Email: dg20280014@smail.nju.edu.cn<br><br>Wen is interested in exploring the multiple timescale variability of the snow cover over Tibetan Plateau and the associated large-scale atmospheric circulation.</td>
+  </tr>
+  <tr>
     <td><img src="/images/groupmemberphoto/zlu.JPG" alt="drawing" width="300"/></td>
     <td>Zheng Lu<br><br>PhD candidate 2021<br>Email: dg21280012@smail.nju.edu.cn<br><br>Zheng is interested in the seasonal and cross-seasonal predictability of summertime surface air temperature in Eurasia.</td>
   </tr>
