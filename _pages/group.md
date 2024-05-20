@@ -46,6 +46,10 @@ author_profile: true
     <td><a href="https://ranx79.github.io/">Xue Ran</a><br><br>PhD candidate 2023<br>Email: 602023280016@smail.nju.edu.cn<br><br>Xue's research focuses on the Stratosphere-Troposphere Dynamical Coupling, especially the regional coupling characteristics.</td>
   </tr>
   <tr>
+    <td><img src="/images/bio-photo.jpg" alt="drawing" width="300"/></td>
+    <td>Modi Ma<br><br>MS candidate 2021<br>Email:  <br><br>Modi is interested in the Cold Air Outbreak in Arctic.</td>
+  </tr>
+  <tr>
     <td><img src="/images/groupmemberphoto/hjliu.jpg" alt="drawing" width="300"/></td>
     <td>Hongjiang Liu<br><br>PhD candidate 2024<br>Email: 502022280024@smail.nju.edu.cn<br><br>Hongjiang is interested in the changes in characteristics of atmospheric fluctuations with different time scales at mid-high latitudes in winter and dynamic mechanisms.</td>
   </tr>
