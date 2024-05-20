@@ -61,6 +61,10 @@ author_profile: true
     <td><img src="/images/groupmemberphoto/lywang.JPG" alt="drawing" width="300"/></td>
     <td>Luyao Wang<br><br>MS candidate 2023<br>Email: 502023280036@smail.nju.edu.cn<br><br>Luyao is interested in understanding cold air outbreaks in the Arctic and related air-sea heat fluxes.</td>
   </tr>
+  <tr>
+    <td><img src="/images/bio-photo.jpg" alt="drawing" width="300"/></td>
+    <td>Yunyi Pan<br><br>MS candidate 2024<br>Email: 201830049@smail.nju.edu.cn<br><br>Yunyi is interested in the mechanism of heatwaves and understanding and development of the framework of local wave activity.</td>
+  </tr>
 </table>
 
 </font>
