@@ -62,7 +62,7 @@ author_profile: true
     <td>Luyao Wang<br><br>MS candidate 2023<br>Email: 502023280036@smail.nju.edu.cn<br><br>Luyao is interested in understanding cold air outbreaks in the Arctic and related air-sea heat fluxes.</td>
   </tr>
   <tr>
-    <td><img src="/images/bio-photo.jpg" alt="drawing" width="300"/></td>
+    <td><img src="/images/groupmemberphoto/yypan.jpg" alt="drawing" width="300"/></td>
     <td>Yunyi Pan<br><br>MS candidate 2024<br>Email: 201830049@smail.nju.edu.cn<br><br>Yunyi is interested in the mechanism of heatwaves and understanding and development of the framework of local wave activity.</td>
   </tr>
 </table>
@@ -92,7 +92,7 @@ author_profile: true
   <tr>
     <td><div align=center><img src="/images/groupmemberphoto/xldai.jpg" alt="drawing" width="100"/></div></td>
     <td>Xianglin Dai<br><br>PhD<br> (2015.09-2020.09)<br></td>
-    <td><div align=center><img src="/images/bio-photo.jpg" alt="drawing" width="100"/></div></td>
+    <td><div align=center><img src="/images/groupmemberphoto/tzou.JPG" alt="drawing" width="100"/></div></td>
     <td>Tao Zou<br><br>MS<br> (2016.09-2019.06)<br></td>
     <td><div align=center><img src="/images/groupmemberphoto/mlwang.jpg" alt="drawing" width="100"/></div></td>
     <td>Mengling Wang<br><br>PhD<br> (2017.09-2022.06)<br></td>
