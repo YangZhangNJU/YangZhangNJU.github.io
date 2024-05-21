@@ -102,10 +102,13 @@ author_profile: true
     <td>Qiuyan Zhang<br><br>PhD<br> (2018.09-2022.09)<br></td>
     <td><div align=center><img src="/images/groupmemberphoto/ypan.jpg" alt="drawing" width="100"/></div></td>
     <td>Yan Pan<br><br>MS<br> (2019.09-2022.06)<br></td>
+    <td><div align=center><img src="/images/groupmemberphoto/wyli.jpg" alt="drawing" width="100"/></div></td>
+    <td>Wenyi Li<br><br>MS<br> (2020.09-2023.06)<br></td>
+  </tr>
+  <tr>
     <td><div align=center><img src="/images/groupmemberphoto/ylyao.JPG" alt="drawing" width="100"/></div></td>
     <td>Yuling Yao<br><br>PhD<br> (2019.09-2024.03)<br></td>
   </tr>
-  
 </table>
 </font>
 
