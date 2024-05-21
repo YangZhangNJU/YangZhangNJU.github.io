@@ -7,6 +7,23 @@ author_profile: true
 
 ## Main papers: (* corresponding author)
 
+   
+   Bai, H., H. Hu, X. Ren, X. Yang, **Y. Zhang**, K. Mao and Y. Zhao, 2023: The Impacts of East China Sea Kuroshio Front on Winter Heavy Precipitation Events in Southern China. <u>Journal of Geophysical Research: Atmospheres</u>, DOI: 10.1029/2022JD037341.
+
+   Yu Nie, **Yang Zhang***, Jinqing Zuo, Mengling Wang, Jie Wu, Ying Liu, 2023: Dynamical processes controlling the evolution of early-summer cut-off lows in Northeast Asia, <u>Climate Dynamics</u>, 10.1007/s00382-022-06371-5.
+
+   Chen, G., Nie, Y., and **Zhang, Y.**, 2022: Jet stream meandering in the Northern Hemisphere winter: an advection-diffusion perspective, <u>Journal of Climate</u>, 35, 2055-2073. 
+
+   Nie, Y., Ren, H., **Zhang, Y.**, and Zhang, P., 2022: Roles of Atmospheric Variability and Arctic Sea Ice in the Asymmetric Arctic–Eurasia Temperature Connection on Subseasonal Time Scale, <u>Journal of Climate</u>, 35(23), 3975-3994.
+
+   Yongkang Xue, Ismaila Diallo, Aaron A. Boone, Tandong Yao, **Yang Zhang** et al., 2022: Spring Land Temperature in Tibetan Plateau and Global-Scale Summer Precipitation – Initialization and Improved Prediction. <u>Bulletin of the American Meteorological Society</u>. 103,12, DOI: https://doi.org/10.1175/BAMS-D-21-0270.1, E2756-E2767.
+
+   Huang, J., **Y. Zhang***, H. Hu*, X. Yang, X. Ren and H. Hu, 2022: Observational Characteristics of Wintertime Extreme Surface Turbulent Heat Flux Events in the North Pacific Subtropical Region, <u>Journal of Geophysical Research: Atmospheres</u>, e2021JD035778, https://doi.org/10.1029/2021JD035778.
+
+   Zhang, Q.(PHD student), **Zhang, Y.*** and Wu, Z., 2022: Multiple time scales of the Southern Annular Mode. <u>Climate Dynamics</u>, https://doi.org/10.1007/s00382-022-06476-x.
+
+   Nie, Y., **Zhang, Y.***, Chen, G., & Yang, X., 2022: Quantifying Eddy Generation and Dissipation in the Jet Response to Upper- versus Lower-Level Thermal Forcing, <u>Journal of the Atmospheric Sciences</u>, 79(10), 2703-2720. 
+
    Dai, Xianglin(PHD student), **Yang Zhang*** and Xiu-Qun Yang, 2021: The budget of local available potential energy of low-frequency eddies in Northern Hemispheric winter, <u>Journal of Climate</u>, 34, 1241-1258.
 
    Wang, Mengling(PHD student), **Yang Zhang** and Jian Lu*, 2021: The evolution dynamical processes of Ural blocking through the lens of local finite‐amplitude wave activity budget analysis, <u>Geophy. Res. Let.</u> 48, DOI: 10.1029/2020GL091727.
