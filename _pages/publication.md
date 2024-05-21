@@ -73,10 +73,10 @@ author_profile: true
    
    Nie, Yu（PHD student）, **Yang Zhang***, Xiu-Qun Yang, and Gang Chen, 2013:  Baroclinic anomalies associated with the Southern Hemisphere Annular Mode: roles of synoptic and low-frequency eddies. <u>Geophy. Res. Let.</u>, 40, 2361–2366, doi:10.1002/grl.50396. 
    
-   **Zhang, Yang***, Xiu-Qun Yang, Yu Nie, and Gang Chen, 2012:  Annular-mode-like variation in a multi-layer quasigeostrophic model. <u>Journal of the Atmospheric Sciences</u>, 69, 2940-2958. 
+   **Zhang, Yang**, Xiu-Qun Yang, Yu Nie, and Gang Chen, 2012:  Annular-mode-like variation in a multi-layer quasigeostrophic model. <u>Journal of the Atmospheric Sciences</u>, 69, 2940-2958. 
    
-   **Zhang, Yang*** and Peter Stone, 2011:  Baroclinic Adjustment in an Atmosphere–Ocean Thermally Coupled Model: The Role of the Boundary Layer Processes. <u>Journal of the Atmospheric Sciences</u>, 68, 2710-2730.  
+   **Zhang, Yang** and Peter Stone, 2011:  Baroclinic Adjustment in an Atmosphere–Ocean Thermally Coupled Model: The Role of the Boundary Layer Processes. <u>Journal of the Atmospheric Sciences</u>, 68, 2710-2730.  
    
-   **Zhang, Yang*** and Peter Stone, 2010:  Baroclinic eddy equilibration under specified seasonal forcing. <u>Journal of the Atmospheric Sciences</u>, 67, 2632–2648. 
+   **Zhang, Yang** and Peter Stone, 2010:  Baroclinic eddy equilibration under specified seasonal forcing. <u>Journal of the Atmospheric Sciences</u>, 67, 2632–2648. 
    
-   **Zhang, Yang***, Peter Stone, and Amy Solomon, 2009:  The role of boundary layer processes in limiting PV homogenization. <u>Journal of the Atmospheric Sciences</u>, 66, 1612–1632.  
+   **Zhang, Yang**, Peter Stone, and Amy Solomon, 2009:  The role of boundary layer processes in limiting PV homogenization. <u>Journal of the Atmospheric Sciences</u>, 66, 1612–1632.  
