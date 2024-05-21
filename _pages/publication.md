@@ -7,7 +7,18 @@ author_profile: true
 
 ## Main papers: (* corresponding author)
 
+   **Yang Zhang***, Yan Pan ,Yongkang Xue* et al., 2024: Near-global Summer Circulation Response to the Spring Surface Temperature Anomaly in Tibetan Plateau -- The GEWEX/LS4P Phase I experiment, <u>Climate Dynamics</u>, DOI:10.1007/s00382-024-07210-5 / CLDY-D-23-00396R2.
+
+   Ran, X.(PHD student), Hu, D., **Zhang, Y.** and Liu, M. 2024: Relationship between the Stratospheric Arctic Vortex and Surface Air Temperature in the Midlatitudes of the Northern Hemisphere, <u>J. Meteor. Res.</u>, 38(1), 39–52, doi: 10.1007/s13351-024-3072-7. 
+
+   Liu, Y.(PHD student), Zhang, Y.*, Gu, S. et al. 2023: A Cross-Seasonal Linkage between Arctic Sea Ice and Eurasian Summertime Temperature Fluctuations. <u>Adv. Atmos. Sci.</u> 40, 2195–2210. https://doi.org/10.1007/s00376-023-2313-5
+
+   Yao, Y.(PHD student), **Y. Zhang***, K. I. Hodges, and T. Tamarin-Brodsky, 2023: Different Propagation Mechanisms of Deep and Shallow Wintertime Extratropical Cyclones over the North Pacific. <u>J. Climate</u>, 36, 8277–8297, https://doi.org/10.1175/JCLI-D-22-0674.1.
+
+   X. Hao, Y. Jiang, X. Yang, X. Liu, **Yang Zhang**, M. Wang, Y. Liang and Y. Wang, 2023: Impacts of premonsoon aerosol forcing over South Asia on East Asian climate: Two possible dynamical pathways, <u>Journal of Climate</u>, DOI: 10.1175/JCLI-D-22-0049.1.
    
+   Nie Y., G. Chen, J. Lu, W. Zhou and **Y. Zhang**, 2023: Constraining the Varied Response of Northern Hemisphere Winter Circulation Waviness to Climate Change, <u>Geophy. Res. Let.</u> 40, 2361–2366.
+
    Bai, H., H. Hu, X. Ren, X. Yang, **Y. Zhang**, K. Mao and Y. Zhao, 2023: The Impacts of East China Sea Kuroshio Front on Winter Heavy Precipitation Events in Southern China. <u>Journal of Geophysical Research: Atmospheres</u>, DOI: 10.1029/2022JD037341.
 
    Yu Nie, **Yang Zhang***, Jinqing Zuo, Mengling Wang, Jie Wu, Ying Liu, 2023: Dynamical processes controlling the evolution of early-summer cut-off lows in Northeast Asia, <u>Climate Dynamics</u>, 10.1007/s00382-022-06371-5.
