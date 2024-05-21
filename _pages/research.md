@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-The focus of Yang Zhang’s research is the **fundamental dynamics of atmospheric circulations**, including <u>eddy-mean flow interactions in various climate variabilities and regional weather extremes</u>, mechanisms of extratropical air-sea interactions and planetary waves connecting polar regions and midlatitudes.
+The focus of Yang Zhang’s research is the **fundamental dynamics of atmospheric circulations**, including <u>eddy-mean flow interactions in various climate variabilities and regional weather extremes</u>, <u>mechanisms of extratropical air-sea interactions</u> and <u>planetary waves connecting polar regions and midlatitudes</u>.
 
 The interaction between atmospheric eddies and the atmospheric general circulation is one of the main causes of climate change and weather extremes. The highly nonlinearity and the complex multi-scale processes of the atmospheric motion challenges our understanding of the eddy-mean flow interaction. Zhang Yang's research developed the new "finite amplitude wave activity" framework to tackle the caveat of existing dynamical theories which are mostly based on quasi-linear assumptions, and discovered the mechanism of the multi-scale interaction between atmospheric high frequency, low frequency eddies and atmospheric circulation to maintain the persistent climate anomalies. 
 
