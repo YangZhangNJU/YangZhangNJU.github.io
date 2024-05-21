@@ -27,5 +27,6 @@ redirect_from:
 
 ## *Recent News:*
 
++ **May 21, 2024**: Congratulations to Modi Ma for completing her master's degree defense!
 + **Jan 18, 2024**: Congratulations to Dr. Yuling Yao on a successful PHD defense!
 
