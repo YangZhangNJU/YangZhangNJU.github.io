@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-***Undergraduate course:**
+### Undergraduate course:
 
 -"General Circulation of the Atmosphere", Nanjing University, Fall semester.
 
@@ -13,11 +13,12 @@ author_profile: true
 
 -"Fluid Mechanics", Nanjing University, Spring semester.
 
-***Graduate course:**
+### Graduate course:
 
 -"General Circulation of the Atmosphere", Nanjing University, Fall semester.
 
-***Teaching Awards：**
+
+### Teaching Awards：
 
 •	“Teaching Award” for young faculty, Jiangsu Province, 2014.
 
