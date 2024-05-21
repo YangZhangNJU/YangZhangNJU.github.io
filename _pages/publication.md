@@ -7,7 +7,7 @@ author_profile: true
 
 ## Main papers: (* corresponding author)
 
-   Yang Zhang*, Yan Pan ,Yongkang Xue* et al., 2024: Near-global Summer Circulation Response to the Spring Surface Temperature Anomaly in Tibetan Plateau -- The GEWEX/LS4P Phase I experiment, <u>Climate Dynamics</u>, DOI:10.1007/s00382-024-07210-5 / CLDY-D-23-00396R2.
+   **Yang Zhang***, Yan Pan ,*Yongkang Xue** et al., 2024: Near-global Summer Circulation Response to the Spring Surface Temperature Anomaly in Tibetan Plateau -- The GEWEX/LS4P Phase I experiment, <u>Climate Dynamics</u>, DOI:10.1007/s00382-024-07210-5 / CLDY-D-23-00396R2.
 
    Ran, X.(PHD student), Hu, D., **Zhang, Y.** and Liu, M. 2024: Relationship between the Stratospheric Arctic Vortex and Surface Air Temperature in the Midlatitudes of the Northern Hemisphere, <u>J. Meteor. Res.</u>, 38(1), 39–52, doi: 10.1007/s13351-024-3072-7. 
 
